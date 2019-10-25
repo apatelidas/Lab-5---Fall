@@ -12,3 +12,8 @@ table, td, th {
 	color: #FFFFFF;
 	height: 30px;
 }
+td, th {
+	text-align: center;
+	height: 30px;
+	color: #FFFFFF;
+}
