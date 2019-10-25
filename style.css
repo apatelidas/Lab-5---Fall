@@ -2,6 +2,11 @@ body {
 	background-image: url("media/pluto.jpg");
 	background-size: cover;
 }
+h2 {
+	font-family: "Apple Chancery", cursive;
+	color: #FFFFFF;
+	text-align: center;
+}
 table {
 	margin-left: auto;
 	margin-right: auto;
