@@ -7,3 +7,8 @@ table {
 	margin-right: auto;
 	padding: 30px;
 }
+table, td, th {
+	font-family: "Apple Chancery", cursive;
+	color: #FFFFFF;
+	height: 30px;
+}
