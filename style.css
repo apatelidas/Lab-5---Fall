@@ -2,3 +2,8 @@ body {
 	background-image: url("media/pluto.jpg");
 	background-size: cover;
 }
+table {
+	margin-left: auto;
+	margin-right: auto;
+	padding: 30px;
+}
